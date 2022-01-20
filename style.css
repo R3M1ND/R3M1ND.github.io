@@ -1,0 +1,74 @@
+body
+{
+    background-color: rgb(247, 247, 247) !important;
+}
+img
+{
+    width: 15%;
+    height: 50%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    top: 25%;
+    left: 27.5%;
+    border-radius: 4px;
+}
+.main
+{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px 1px rgba(94, 94, 94, 0.281);
+    margin: auto auto;
+    border-radius: 15px;
+    position: fixed;
+    width: 50% ;
+    height: 60%;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    
+}
+.main-frame
+{
+    background: linear-gradient(240deg, #efd5ff 0%, #515ada 100%);
+    position: fixed;
+    display: flex;
+    width: 20%;
+    height: 60%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.line
+{
+    background-color: rgb(148, 148, 148);
+    position: fixed;
+    width: 25% ;
+    height: 1.5px;
+    display: flex;
+    left: 47%;
+    top: 40%;
+    
+}
+.font-name
+{
+    font-family: 'Outfit', sans-serif;
+    font-size: 45px;
+    margin-left: 44%;
+    margin-top: 20px;
+}
+.font-thai
+{
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-left: 44%;
+    margin-top: 40px;
+    font-size: 18px;
+}
+.font-meme
+{
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-left: 44%;
+    margin-top: 104px;
+    font-size: 13px;
+    font-style: italic;
+}
